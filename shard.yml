@@ -1,0 +1,9 @@
+name: gviz
+version: 0.1.0
+
+authors:
+  - Paul M. Lambert <plambert@plambert.net>
+
+crystal: 0.32.1
+
+license: MIT
